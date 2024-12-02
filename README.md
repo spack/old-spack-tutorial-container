@@ -1,5 +1,7 @@
 # Spack Tutorial Container
 
+**This repository is how we used to build the Spack tutorial. It is no longer in use.**
+
 This repository contains a container image you can use to do the
 [Spack Tutorial](https://spack.readthedocs.io/en/latest/tutorial.html).
 It's exactly like the AWS images we use when we give the tutorial at
